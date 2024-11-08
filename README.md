@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**tabishSheikh/tabishSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Tabish Ahmed Sheikh
 
-Here are some ideas to get you started:
+I’m a developer focused on IT programming, with experience in customer service. Currently, I’m exploring Python and Git to enhance my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **[Juice Joint](https://github.com/yourusername/JuiceJoint)** - My juice shop brand focused on 'Liquid Bliss' 🍹
+- **[Your Project 2](https://github.com/yourusername/project2)** - Brief description of what it does
+
+## 🚀 Currently Learning
+- Python and Git for better development and version control.
+
+![Tabish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/yourusername)
+
